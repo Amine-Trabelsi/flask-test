@@ -1,5 +1,8 @@
 # Flask interview test
-
+## Run the server
+```
+python run.py
+```
 ## API endpoints
 ### Change balance based on temperature
 ```
