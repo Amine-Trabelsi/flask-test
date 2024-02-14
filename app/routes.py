@@ -3,7 +3,6 @@ from app import db
 from .models import User
 from .views import Homepage
 from .weather import WeatherAPI
-from .forms import UserForm
 
 main_blueprint = Blueprint('main', __name__)
 
